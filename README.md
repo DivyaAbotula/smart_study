@@ -1,1 +1,1 @@
-# smart_study
+# index
